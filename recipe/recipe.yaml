@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.97.0"
+  version: "0.98.0"
 
 package:
   name: python-substrait-antlr
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/substrait-antlr/substrait_antlr-${{ version }}.tar.gz
-  sha256: 986f488beaab729abf86dacda371039e9d2c2d4827c132850c941cf1b8efdb71
+  sha256: 6a1f33bcd88c425229e42c77079fb0f1f5ad8e0da133e9c1e68048c47104f059
 
 build:
   number: 0
